@@ -4,7 +4,7 @@
 A climatological and environmental analysis of the 2024 tornado season in New York State using reanalysis data and historical tornado records.
 
 
-Overview
+Overview:
 
 This repository contains the code, analysis workflow, and visualizations developed for an undergraduate thesis examining whether the 2024 tornado 
 season in New York was anomalous relative to historical climatology, and whether the atmospheric environments associated with the season were also 
@@ -20,7 +20,7 @@ Comparison of 2024 conditions against long-term climatology
 Spatial and temporal variability in severe weather parameters
 
 
-Research Questions
+Research Questions:
 
 This project was designed around two primary questions:
 
@@ -30,7 +30,7 @@ Were the large-scale atmospheric environments associated with the 2024 season al
 To address these questions, the project evaluates both tornado occurrence data and several commonly used severe weather parameters derived from atmospheric reanalysis datasets.
 
 
-Variables Analyzed
+Variables Analyzed:
 
 The environmental analysis includes:
 
@@ -43,14 +43,14 @@ Seasonal and annual averages of the above variables
 These parameters were analyzed spatially and temporally to assess how the 2024 season compared to climatological expectations.
 
 
-Data Sources
+Data Sources:
 
 Datasets used in this project include:
 
 ERA5 atmospheric reanalysis
 
 
-Methods Summary
+Methods Summary:
 
 The workflow generally followed these steps:
 
@@ -64,9 +64,7 @@ Interpret results in the context of New York tornado climatology
 
 All analysis and visualization was performed in Python.
 
-Tools and Libraries
-
-This project primarily uses:
+Tools and Libraries:
 
 Python
 xarray
@@ -77,9 +75,7 @@ cartopy
 
 Additional packages may be added as the repository develops.
 
-Example Outputs
-
-The repository includes:
+Example Outputs:
 
 Spatial anomaly maps
 Seasonal time series
@@ -91,14 +87,12 @@ This project was completed as an undergraduate thesis.
 
 Advisor: Osamu Miyawaki
 
-Current Status
+Current Status:
 
 This repository is currently being organized and expanded. Additional documentation, cleaned workflows, processed datasets, and reproducibility 
 instructions will be added over time.
 
-Future Work
-
-Potential future directions include:
+Future Work:
 
 Expanding the climatological period
 Additional environmental parameters
