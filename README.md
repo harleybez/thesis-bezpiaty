@@ -50,25 +50,6 @@ Datasets used in this project include:
 ERA5 atmospheric reanalysis
 
 
-Repository Structure
-.
-├── code/
-│   ├── cape/
-│   ├── shear/
-│   ├── helicity/
-│   ├── stp/
-│   ├── averages/
-│   
-├── figures/
-│   ├── maps/
-│   ├── time_series/
-│   └── composites/
-│ 
-├── thesis/
-│
-└── README.md
-
-
 Methods Summary
 
 The workflow generally followed these steps:
